@@ -1,0 +1,18 @@
+[
+  {
+    "id": "be9acb4c-c850-42bb-a387-a8527af76f80",
+    "email": "oscarcvbot",
+    "password_hash": "$2a$10$HqQ3m6/9tq0zQ2KN0wvRW.6phF6anrq74zHBPgGyE/2KJheRew8Gq",
+    "provider_credentials": [
+      {
+        "id": "813c8d07-c0e5-4aab-a9c4-13f405b3ce11",
+        "email": "oscarcv+bot@gmail.com",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "hlBEs59JN4r8VQ5Dpjs9Ita8Q6GiExHheFm4qh48GdEgiRMmldWEJCkQhyS9\nfshwVhVuCBvHCQ5iE2AOTCjxNw==\n"
+      }
+    ]
+  }
+]
